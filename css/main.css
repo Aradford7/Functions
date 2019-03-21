@@ -1,0 +1,17 @@
+.container{
+    background-color: pink;
+    height: 1000px;
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.box {
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin:10;
+}
